@@ -11,6 +11,11 @@ Images are meant be be flashed with a microSD card of at least 8 GB. Typical com
 ```bash
 zcat erle-debian-9-10-14.img.gz | sudo dd of=/dev/disk1 bs=8m
 ```
+In Ubuntu:
+```bash
+zcat erle-debian-9-10-14.img.gz | sudo dd of=/dev/sdc bs=8M
+```
+
 
 | Image | Date | Size | Description |
 | ----------|--------|-------|------|
