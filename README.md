@@ -3,7 +3,7 @@ Autoflashable BBB images
 
 -----
 
-*Latest image available* [here](https://mega.co.nz/#!aQ8FnB4B!CpqMmZdVyOWvryxdb9Hzvo2UnL44L-0JttPRswgC6Ek).
+*Latest image available* [here](https://mega.co.nz/#!idlARJrb!J7dYgGT0amHCm34VH6JK5lzcc56XO_XEKDrrXV6_N4c).
 
 -----
 
