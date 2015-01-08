@@ -3,7 +3,8 @@ Autoflashable BBB images
 
 -----
 
-*Latest image available* [here](https://mega.co.nz/#!2JdwXaZC!YFb6Ox_xAGtaIZu3TMSQVGpnbJnPuif3CpHqO7hZzcs).
+*Latest image available*
+[here](https://mega.co.nz/#!vY8GzTTQ!pRdmdNJd1-rqdSDliD8SgKuHRrTFV_NRpxtF7p34Fhw).
 
 -----
 
@@ -26,4 +27,5 @@ zcat erle-debian-9-10-14.img.gz | sudo dd of=/dev/sdc bs=8M
 |[imx6-rex-debian.tar.gz](https://mega.co.nz/#!xxIhCQAT!CYaLGScwczgFKvgvuNTTmJsX2IJlmw0RAIwPVsMFOOY)| 21-11-2014 | 221.8 MB | imx6rex board Debian image, NOT for BBB |
 |[erle-debian-6-12-14.img.gz (no funciona) ](https://mega.co.nz/#!idlARJrb!J7dYgGT0amHCm34VH6JK5lzcc56XO_XEKDrrXV6_N4c)| 6-12-2014 | 1.34 GB | Debian, ROS Hydro, mavros, WiFi |
 |[erle-debian-11-12-14.img.gz](https://mega.co.nz/#!2JdwXaZC!YFb6Ox_xAGtaIZu3TMSQVGpnbJnPuif3CpHqO7hZzcs)| 11-12-2014 | 1.34 GB | Debian, ROS Hydro, mavros, WiFi |
+|[erle-debian-8-1-15.img.gz](https://mega.co.nz/#!vY8GzTTQ!pRdmdNJd1-rqdSDliD8SgKuHRrTFV_NRpxtF7p34Fhw)| 8-1-2015 | 1.34 GB | Debian, ROS Hydro (not launched at init), mavros (not launched at init), WiFi (required from the APM binary) |
 
