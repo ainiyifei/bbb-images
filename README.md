@@ -28,5 +28,5 @@ zcat erle-debian-9-10-14.img.gz | sudo dd of=/dev/sdc bs=8M
 |[erle-debian-6-12-14.img.gz (no funciona) ](https://mega.co.nz/#!idlARJrb!J7dYgGT0amHCm34VH6JK5lzcc56XO_XEKDrrXV6_N4c)| 6-12-2014 | 1.34 GB | Debian, ROS Hydro, mavros, WiFi, **NO FUNCIONA**|
 |[erle-debian-11-12-14.img.gz](https://mega.co.nz/#!2JdwXaZC!YFb6Ox_xAGtaIZu3TMSQVGpnbJnPuif3CpHqO7hZzcs)| 11-12-2014 | 1.34 GB | Debian, ROS Hydro, mavros, WiFi, **NO FUNCIONA**|
 |[erle-debian-8-1-15.img.gz](https://mega.co.nz/#!vY8GzTTQ!pRdmdNJd1-rqdSDliD8SgKuHRrTFV_NRpxtF7p34Fhw)| 8-1-2015 | 1.34 GB | Debian, ROS Hydro (not launched at init), mavros (not launched at init), WiFi (required from the APM binary) |
-|[erle-debian-bootable-4-2-15.img.gz](https://drive.google.com/file/d/0B6D4e4nVvowdLWp0QVVIckpGUEU/view)| 8-2-2015 | 1.4 GB | Debian, ROS Hydro, mavros (launched at init), WiFi (required from the APM binary) |
+|[erle-debian-bootable-4-2-15.img.gz](https://drive.google.com/file/d/0B6D4e4nVvowdLWp0QVVIckpGUEU/view)| 8-2-2015 | 1.4 GB | **microSD card bootable** Debian, ROS Hydro, mavros (launched at init), WiFi (required from the APM binary) |
 
