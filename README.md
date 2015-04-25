@@ -31,4 +31,6 @@ zcat erle-debian-9-10-14.img.gz | sudo dd of=/dev/sdc bs=8M
 |[erle-debian-bootable-4-2-15.img.gz](https://drive.google.com/file/d/0B6D4e4nVvowdLWp0QVVIckpGUEU/view)| 8-2-2015 | 1.4 GB | **microSD card bootable** Debian, ROS Hydro, mavros (launched at init), WiFi (required from the APM binary) |
 |[erle-snappy-25-3-15.img.gz](https://mega.co.nz/#!uckwnSqT!f_UBsgstZXjnq2cck3M3X9qHRoD2dQbtIq1Ykp8RLFo)| 25-3-2015 | 1.59 GB | **Snappy image**, ROS, mavros and pwm nodes launched |
 |[erle-debian-25-4-15.img.gz](https://mega.co.nz/#!6EcDRTZI!y-msWeHYUsTtWdLTYcq8XNIs2BWlpc8sFK5SiOB5Zlg)| 25-4-2015 | 964.9 MB | **microSD card bootable Debian**, ROS indigo (launched at init) and mavros (launched at init, bridged: wifi, usb and telemetry) |
+|[erle-debian-flash-25-4-15.img.gz](https://mega.co.nz/#!SB8hDDTJ!Lfh5OHo5dE_EVQh9fI75Z0aisI9FqAAgNxwBd9N9y7k)| 25-4-2015 | 964.9 MB | **microSD card flashing Debian**, ROS indigo (launched at init) and mavros (launched at init, bridged: wifi, usb and telemetry) |
+
 
