@@ -33,5 +33,5 @@ zcat erle-debian-9-10-14.img.gz | sudo dd of=/dev/sdc bs=8M
 |[erle-debian-25-4-15.img.gz](https://mega.co.nz/#!6EcDRTZI!y-msWeHYUsTtWdLTYcq8XNIs2BWlpc8sFK5SiOB5Zlg)| 25-4-2015 | 964.9 MB | **microSD card bootable Debian**, ROS indigo (launched at init) and mavros (launched at init, bridged: wifi, usb and telemetry) | 36ae6a7853eff55da9e6eec39a36132a |
 |[erle-debian-flash-25-4-15.img.gz](https://mega.co.nz/#!SB8hDDTJ!Lfh5OHo5dE_EVQh9fI75Z0aisI9FqAAgNxwBd9N9y7k)| 25-4-2015 | 969.3 MB | **microSD card flashing Debian**, ROS indigo (launched at init) and mavros (launched at init, bridged: wifi, usb and telemetry) | 6a124cb01de866dfd276a09f3c237471 |
 |[erle-snappy-30-4-2015.img.gz](https://mega.co.nz/#!LMNUTABC!tkO2noZaJJuilEwLZknCgnIl7xHhC6zZLLAD4tVlJKs)| 30-4-2015 | 1.62 GB | **microSD card Snappy image**, ROS Indigo (launched at init), mavros (launched at init, bridged: wifi, usb and telemetry), initrd.img fixed | 340d5546880f881356ba4df917603823 |
-
+|[erle-snappy-18-5-2015.img.gz](https://mega.co.nz/#!bNFiFCzY!r06g96-mYsllv7CKcDPIJppPiLWwaElqTCxkNkgyIA8)| 18-5-2015 | 1.9 GB | **microSD card Snappy image**, ROS Indigo (launched at init), mavros (launched at init, bridged: wifi, usb and telemetry), initrd.img fixed, chroot | 74e2485627cdd5e385fa1366336df26cd972fb0d |
 
