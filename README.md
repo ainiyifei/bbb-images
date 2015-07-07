@@ -1,12 +1,6 @@
 BBB images
 ==========
 
------
-
-*Latest image available*
-[here](https://mega.co.nz/#!vY8GzTTQ!pRdmdNJd1-rqdSDliD8SgKuHRrTFV_NRpxtF7p34Fhw).
-
------
 
 Images are meant be be flashed with a microSD card of at least 8 GB. Typical command in Mac OS:
 ```bash
